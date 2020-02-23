@@ -1,0 +1,23 @@
+*{
+  scroll-behavior: smooth;
+  background-color:#BFDBF7;
+  color:#022B3A
+}
+
+p.chapter_first_paragraph::first-letter{
+font-size: 60px;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-size:30px;
+color:#1F7A8C
+}
+
+h1{
+font-size:100px;
+}
+
+.fig:hover{
+  filter: blur(5px);
+  transition: 1s ease;
+}
