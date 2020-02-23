@@ -1,0 +1,48 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: #F8E8EB;
+}
+
+p{
+margin:0;
+}
+
+.hero-image {
+  background-color: #E8F8F5;
+}
+
+.title {
+  position: relative;
+  top: 50%;
+  text-align: center;
+  font-family: 'Comfortaa';
+  font-size: 75px;
+  line-height: 0px;
+  flex: 100%;
+
+}
+
+.desc {
+  text-align: center;
+  font-family: 'Raleway';
+  font-size: 25px;
+}
+
+.row {
+  height: 300px;
+  display: flex;
+}
+
+.column2 {
+  flex: 50%;
+}
+
+.column3 {
+  flex: 33%;
+}
