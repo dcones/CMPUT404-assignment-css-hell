@@ -39,6 +39,7 @@ p {
   padding-top: 35px;
   font-size: 35px;
   text-align: right;
+  /*  See citations in README for source of following 3 lines */
   background: linear-gradient(to right, yellow, orange, red);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

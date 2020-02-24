@@ -21,6 +21,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+#### Citations
+
+Getting rainbow text in `ugly.css` was accomplished with the help of: <br>
+question : https://stackoverflow.com/questions/40557461/rainbow-gradient-on-text-in-css <br>
+answer   : https://stackoverflow.com/questions/40557461/rainbow-gradient-on-text-in-css/40557564#40557564 <br>
+Asker Eric NEMO https://stackoverflow.com/users/5762965/eric-nemo <br>
+Answerer Pavel Shalamkov https://stackoverflow.com/users/6053654/commercial-suicide <br>
+
 Modifications to Project Gutenberg HTML Files
 =============================================
 
